@@ -48,11 +48,11 @@ The First Peak ($\ell \approx 200$): In Model 1, the higher density and expansio
 Baryon Loading: By increasing omega_b, the odd-numbered peaks (1st, 3rd) become enhanced relative to the even-numbered peaks.
 The Damping Tail: At very high $\ell$ (small angular scales), the power drops off. This is Silk Damping, where photon diffusion "washes out" the fluctuations in the early plasma.
 
-Standard Angular Power Spectrum:
-![My Analysis Result](Screenshot 2025-12-30 204910.png)
+Standard  CMB Angular Power Spectrum:
+![Standard](std.cmb_graph.png)
 
 Angular Power Spectrum after corresponding parameter changes:
-![My Analysis Result](cmb_plot2.png)
+![High density model Result](cmb_analysed.png)
 
 ---
 
