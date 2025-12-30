@@ -49,7 +49,7 @@ Baryon Loading: By increasing omega_b, the odd-numbered peaks (1st, 3rd) become 
 The Damping Tail: At very high $\ell$ (small angular scales), the power drops off. This is Silk Damping, where photon diffusion "washes out" the fluctuations in the early plasma.
 
 Standard Angular Power Spectrum:
-![My Analysis Result](cmb_plot1.png)
+![My Analysis Result](Screenshot 2025-12-30 204910.png)
 
 Angular Power Spectrum after corresponding parameter changes:
 ![My Analysis Result](cmb_plot2.png)
