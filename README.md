@@ -37,6 +37,7 @@ The code uses `classy` to compare a **High Density Model** against a **Standard 
 ### Prerequisites
 ```bash
 pip install numpy matplotlib
+pip install classy
 # Ensure CLASS (classy) is installed in your environment
 ```
 ---
